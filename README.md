@@ -22,3 +22,4 @@
 
 - Giovanni Lituma
 - Camila Torres
+- Amanda Emily Smith
